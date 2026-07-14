@@ -35,18 +35,6 @@ The application demonstrates the fundamentals of **socket programming**, **netwo
 
 ---
 
-# 📂 Project Structure
-
-```
-Chat-Application/
-│
-├── server.py
-├── client.py
-└── README.md
-```
-
----
-
 # 📦 Requirements
 
 No external libraries are required.
