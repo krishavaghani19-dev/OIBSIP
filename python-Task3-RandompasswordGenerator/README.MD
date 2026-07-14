@@ -36,14 +36,7 @@ The program validates user input, ensures password security by requiring at leas
 
 ---
 
-# 📂 Project Structure
 
-```
-Password-Generator/
-│
-├── password_generator.py
-└── README.md
-```
 
 ---
 
